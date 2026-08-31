@@ -114,10 +114,10 @@ the fun starts.
 
 |     | Project                                             |                                  |
 | :-: | --------------------------------------------------- | -------------------------------- |
-|  📝 | **[anote](https://github.com/allisonhere/anote)**   | Notes, ideas and experiments     |
-|  ⚡  | **[zellit](https://github.com/allisonhere/zellit)** | Terminal-focused software        |
-|  🧪 | **[alogi](https://github.com/allisonhere/alogi)**   | Software experiments and tooling |
-| 🛠️ | **[assho](https://github.com/allisonhere/assho)**   | Another project from the lab     |
+|  📝 | **[tide](https://github.com/allisonhere/tide)**   | Notes, ideas and experiments     |
+|  ⚡  | **[tidemail](https://github.com/allisonhere/tidemail)** | Terminal-focused software        |
+|  🧪 | **[tideftp](https://github.com/allisonhere/tideftp)**   | Software experiments and tooling |
+| 🛠️ | **[assho just because ;)](https://github.com/allisonhere/assho)**   | Another project from the lab     |
 
 ```text
 STATUS
@@ -131,29 +131,6 @@ STATUS
 
 ---
 
-## `> philosophy`
-
-```text
-Software should be useful.
-Software should be fast.
-Software should have personality.
-
-And building it should still be fun.
-```
-
-I like applications that feel like somebody actually **cared how they work**.
-
-Not another dashboard because everything needs a dashboard.
-
-Not another Electron app because it was convenient.
-
-Sometimes the right interface is a terminal.
-
-Sometimes it's native.
-
-Sometimes it's something nobody has tried yet.
-
----
 
 ## `> stack`
 
