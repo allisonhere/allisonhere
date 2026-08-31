@@ -173,7 +173,7 @@ Most of my projects start with:
 
 <div align="center">
 
-### `> still building_`
+<img src="./assets/still-building.svg" width="420" alt="> still building_">
 
 **The best part of software was never the software.**
 **It was making something that didn't exist yesterday.**
