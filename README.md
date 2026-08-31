@@ -117,7 +117,7 @@ the fun starts.
 |  📝 | **[tide](https://github.com/allisonhere/tide)**   | Notes, ideas and experiments     |
 |  ⚡  | **[tidemail](https://github.com/allisonhere/tidemail)** | Terminal-focused software        |
 |  🧪 | **[tideftp](https://github.com/allisonhere/tideftp)**   | Software experiments and tooling |
-| 🛠️ | **[assho)](https://github.com/allisonhere/assho)**   |      se :P Worth a look           |
+| 🛠️ | **[assho](https://github.com/allisonhere/assho)**   |Why the #uck not                 |
 
 ```text
 STATUS
