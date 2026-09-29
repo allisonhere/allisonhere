@@ -136,14 +136,14 @@ STATUS
 
 ```text
 ┌──────────────────────────────────────────────┐
-│                                              │
-│  OS          Linux                           │
-│  Language    Rust                            │
-│  UI          Terminal / TUI / Native         │
-│  Infra       Docker / Proxmox / Homelab      │
-│  AI          Local LLMs / Agents             │
-│  Philosophy  Build the interesting thing.    │
-│                                              │
+│                                          │
+│  OS          Linux                       │
+│  Language    Rust / GO                   │
+│  UI          Terminal / TUI / Native     │
+│  Infra       Docker / Proxmox / Homelab  │
+│  AI          Local LLMs / Agents         │
+│  Philosophy  Build the interesting thing.│
+│                                          │
 └──────────────────────────────────────────────┘
 ```
 
