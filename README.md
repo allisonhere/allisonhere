@@ -19,7 +19,7 @@
 ```text
 allie@github:~$ whoami
 
-Allie Bayless
+Allie B
 Software designer · developer · lifelong tinkerer
 ```
 
